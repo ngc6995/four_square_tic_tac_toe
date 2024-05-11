@@ -18,3 +18,6 @@ X . . X     . . . .     . X . .     . . . .     . . . X     X . . .
 ```
 
 ![Screen Shot](screen_shot.png)
+
+## Modules used
+`customtkinter` and `monte-carlo-tree-search`.
